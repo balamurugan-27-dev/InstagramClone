@@ -1,0 +1,12 @@
+.profile-image{
+    width: 50px;
+}
+.post-image{
+    width: 300px;
+    height: 300px;
+}
+
+.container{
+    padding: 30px;
+    width: 400px;
+}

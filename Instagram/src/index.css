@@ -4,3 +4,34 @@
 .w-30{
   width: 30%;
 }
+.text-primary {
+ margin-left: auto;
+}
+.profile-image{
+  width: 60px;
+}
+.profile-p{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  width: 500px;
+  margin-left: 20px;
+}
+ .profile-name{
+  font-size: 20px;
+}
+.follow{
+  margin-left: auto;
+}
+.mt-2 .profile-image{
+  width: 45px;
+}
+.suggestion{
+  width: 400px;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+.stories-bar{
+    
+  
+}

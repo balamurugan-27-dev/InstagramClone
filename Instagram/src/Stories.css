@@ -1,0 +1,23 @@
+.gradiant{
+    width: 55px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: linear-gradient(45deg,black,blue,yellow);
+}
+.gradiant .profile-image{
+    border-radius: 50px;
+}
+.stories-container .username{
+    width: 50px;
+}
+.stories{
+    gap: 100px;
+       display: flex;   
+    overflow-y: hidden;
+    overflow-x: auto;
+    width: 100%;
+    scrollbar-width: none;
+}

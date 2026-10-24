@@ -3,7 +3,7 @@ import './SideBar.css'
 export default function SideBar() {
   return (
     <div className='m-3'>
-    <div className='d-flex flex-column gap-3'>
+    <div className='d-flex flex-column gap-3  position-fixed'>
       <img src="src\assets\instagram-text-icon.webp" alt="gg" className='LogoText ' /> 
       <div><i className="bi bi-house "></i>Home</div>
       <div><i className="bi bi-search"></i>Search</div>
