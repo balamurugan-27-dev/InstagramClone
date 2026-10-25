@@ -1,4 +1,4 @@
-import SideBar from './SIdeBar'
+import SideBar from './SideBar'
 import Feed from './Feed'
 import Suggestion from './Suggestion'
 function App() {
